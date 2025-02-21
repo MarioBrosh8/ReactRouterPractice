@@ -1,5 +1,5 @@
 import './App.css'
-import { Routerprincipal } from './components/routers/Routerprincipal'
+import { Routerprincipal } from './components/routers/Routerprincipal.jsx'
 
 function App() {
   return (
